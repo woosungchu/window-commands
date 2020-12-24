@@ -1,5 +1,10 @@
+
+> You should use variable as '%%', not as '%' in bat file
+
 ###### Create File
-> echo some-text  > filename.txt
+```
+ echo some-text  > filename.txt
+```
 
 ###### For loop
 ```
